@@ -1,0 +1,32 @@
+pip freeze > requirements.txt
+pip install requirements
+pip fr
+
+pip install poetry
+
+poetry new palestra_rede_neural
+
+poetry env use python3.7
+
+poetry add requests
+
+pip install poetry
+
+poetry install
+
+poetry run python meu_script.py
+
+poetry update requests
+
+(Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -
+
+poetry new meu_projeto
+
+cd meu_projeto
+
+cd meu_projeto
+
+poetry add jupyter
+
+poetry run jupyter notebook
+
