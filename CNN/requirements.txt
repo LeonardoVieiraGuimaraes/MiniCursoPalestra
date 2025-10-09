@@ -1,7 +1,0 @@
-# Requirements for simple_cnn_colab.ipynb
-# Use: python -m pip install -r requirements.txt
-# Recommended, but adjust versions for your system/GPU if needed.
-
-tensorflow>=2.11.0,<2.15.0
-numpy>=1.23.0
-matplotlib>=3.5.0
